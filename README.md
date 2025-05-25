@@ -12,9 +12,6 @@ ROJAS MATEY, LUIS ANDRÉS
 LABORATORIO M(6PM - 9PM) GRUPO No.9
 II CUATRIMESTRE, 2025
 
-
-# ==================================
-
  
 # TAREA PROGRAMADA #1
 *TEMA: Golden Ratio & Fibonacci*
