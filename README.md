@@ -1,7 +1,7 @@
 UNIVERSIDAD FIDÉLITAS
 SC-601 PROGRAMACIÓN AVANZADA
  
-# PRÁCTICAS PROGRAMADAS
+*PRÁCTICAS PROGRAMADAS*
 
 ESTUDIANTE:
 FLORES CARMONA, JIMENA
@@ -13,7 +13,7 @@ LABORATORIO M(6PM - 9PM) GRUPO No.9
 II CUATRIMESTRE, 2025
 
 
-# =======================================================================================================================
+# ==================================
 
  
 # TAREA PROGRAMADA #1
