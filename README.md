@@ -71,7 +71,7 @@ Fib(4)=3
 ---
 
 ## Entregables
-El archivo **TP1-FH12345678.zip** comprimido `.ZIP` debe contener los siguientes archivos:
+El archivo **TP1-FH23014559.zip** comprimido `.ZIP` debe contener los siguientes archivos:
 - **Program.cs** → Código fuente del programa.
 - **README.md** → Este documento con la explicación detallada.
 
@@ -79,7 +79,7 @@ El archivo **TP1-FH12345678.zip** comprimido `.ZIP` debe contener los siguientes
 
 # Recursos Utilizados
 ## Repositorio del proyecto: 
- Link:
+ Link:https://github.com/JimeFlow/SC-601_JimenaFloresCarmona_TareaProgramada1.git
  
 ## Referencias y documentación
   1. Se exploro la mayoría de la información colocando en el buscador "Golden Ratio Fibonacci in Visual Studio 2022 C#"
