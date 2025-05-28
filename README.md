@@ -43,10 +43,8 @@ Al ejecutar el programa, se solicitará al usuario un número entero **n** en el
 ---
 
 ## **Ejemplo de Salida**  
- 
-
-
-
+### Entrada válida donde n = 5.
+![image](https://github.com/user-attachments/assets/2aa0e3d1-a2aa-4168-92d0-cd1a5b656448)
 
 ---
 
@@ -72,8 +70,9 @@ El archivo **TP1-FH12345678.zip** comprimido `.ZIP` debe contener los siguientes
   1. Se exploro la mayoría de la información colocando en el buscador "Golden Ratio Fibonacci in Visual Studio 2022 C#"
   2. Algoritmo Serie Fibonacci C#: https://youtu.be/IGhsaPGgLyA?si=ihoT6BApNjUT7-SZ
   3. Markdown para hacer el README.md: https://www.markdownguide.org/getting-started/
+  4. Guía Markdown: https://github.com/mattcone/markdown-guide/blob/master/README.md
   
-## Consultas a chatbots de IA: _Copilot_
+## Prompts de las consultas a chatbots de IA: _Copilot_
 ### **🔹 Tarea Programada 1 - Golden Ratio**
 #### **📌 Descripción de la consulta**  
 El usuario solicita ayuda para desarrollar un programa en **C# con .NET Framework en Visual Studio Community 2022** que calcule el **Golden Ratio** utilizando la fórmula matemática y la secuencia de Fibonacci.
