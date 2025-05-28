@@ -44,7 +44,22 @@ Al ejecutar el programa, se solicitará al usuario un número entero **n** en el
 
 ## **Ejemplo de Salida**  
 ### Entrada válida donde n = 5.
-![image](https://github.com/user-attachments/assets/2aa0e3d1-a2aa-4168-92d0-cd1a5b656448)
+
+Welcome to the Golden Ratio Calculator!
+Enter a positive integer from 2 to 45: 5
+
+Phi-1,618033988749890
+Fib(2)/Fib(1)~1,000000000000000[+-0,618033988749895]
+Fib(3)/Fib(2)~2,000000000000000[+-0,381966011250105]
+Fib(4)/Fib(3)~1,500000000000000[+-0,118033988749895]
+Fib(5)/Fib(4)~1,666666666666670[+-0,048632677916772]
+
+Fib(5)=5
+Fib(4)=3
+
+#### Screenshot de la Consola
+![image](https://github.com/user-attachments/assets/77a0bc44-337a-40e1-b08f-39e7a0e9f8df)
+
 
 ---
 
